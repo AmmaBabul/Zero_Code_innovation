@@ -1,3 +1,11 @@
 streamlit_drawable_canvas
 fitz
 frontend 
+IPython
+scipy
+matplotlib
+pandas
+nibabel
+nipype
+pyxnat
+httplib2
